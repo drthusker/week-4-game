@@ -1,0 +1,99 @@
+
+    body {
+    	background-image: url(../images/background.jpg);    }
+
+    #header {
+    	height: 80px;
+    	width: 400px;
+    	background: brown;
+    	text-align: center;
+    	font-size: 50px;
+    	color: white;
+    	padding-top: 3px;
+    	margin: 15px;
+
+    }
+
+    #instructions {
+    	background-color: #ffffff;
+    	font-size: 20px;
+    	color: green;
+    	height: 270px;
+    	width: 800px;
+    	padding-top: 40px;
+        padding-left: 5px;
+    	margin: 15px;
+
+    }
+
+    #numbertoguess {
+    	background-color: #00ff00;
+    	height: 150px;
+    	width: 200px;
+    	font-size: 40px;    	
+    	padding-top: 20px;
+        padding-left: 5px;       
+    	margin: 15px;
+    }
+
+    #scorebox {
+        background-color: #008080; 
+        color: #ffffff;
+        height: 40px;
+        width: 200px; 
+        margin: 15px;  	
+
+    }
+
+    #finalResults {
+        background-color: #008080;
+        color: #ffffff;
+        height: 100px;
+        width: 200px;
+        margin: 15px;
+        font-size: 25px;
+    }
+
+    #winslosses {
+        background-color: #00ffff;
+        height: 150px;
+        width: 100px;
+        padding-top: 30px;
+        padding-left: 5px;
+        margin: 15px;
+        margin-left: -80px;
+        font-size: 15px;
+
+    }
+    .jewels {
+	height: 120px;
+	max-width: 400px;
+	margin: 15px;
+    }
+
+    #bluejewel {
+    	float: left;
+    	height: 80px;
+    	width: 80px;
+    	margin-right: 5px;
+    }
+
+    #greenjewel {
+    	float: left;
+    	height: 80px;
+    	width: 80px;
+    	margin-right: 5px;
+    }
+
+    #redjewel {
+    	float: left;
+    	height: 80px;
+    	width: 80px;
+    	margin-right: 5px;
+    }
+
+    #yellowjewel {
+    	float: left;
+    	height: 80px;
+    	width: 80px;
+    }
